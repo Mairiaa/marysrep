@@ -1,3 +1,6 @@
 vcoid Main(){
 int a=0;
-cout<<a;}
+cout<<a;
+
+//second branch
+}
