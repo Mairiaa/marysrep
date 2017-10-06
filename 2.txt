@@ -2,5 +2,9 @@ vcoid Main(){
 int a=0;
 cout<<a;
 
+
 double d=a+7.7;
+
+//second branch
+
 }
